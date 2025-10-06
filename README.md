@@ -11,5 +11,5 @@ Level 0 is not a proper level; instead, we should consider it an introduction to
 
 As we can see in the image above, we can use the man page for a command to understand its functionality and all the various options that the command can provide us.
 Of course, we can use any search engine to explore videos and tutorials on how to use something 
->Note: The man page explore every functionality of a command, but in most cases it is not the best to understanding how a command works
+>Note: The man page explore every functionality of a command, but in most cases, it is not the best way to understand how a command works
 
