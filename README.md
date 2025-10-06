@@ -34,7 +34,7 @@ Once logged, we should see an image like this:
 
 Now that we're connected, we can dive into the challenges across all the levels!
 ***
-# bandit_level1
+# bandit_level0->1
 ***
 This level tells us that the password is located in the home directory inside a file called "readme." By typing the command `ls`, we can print a list of files stored in the current directory. 
 >The `pwd` command (Print Working Directory) can help us find out where we are.
@@ -62,7 +62,23 @@ There is a bunch of commans that we can use for print the content of a file, her
 <img width="592" height="148" alt="image" src="https://github.com/user-attachments/assets/77831840-1102-4026-9b9d-4a00db9b60ed" />
 
 `less` is a better version of `more`, because it enter interactive mode, regardless of whether the screen size is sufficient.  
-<img width="591" height="132" alt="image" src="https://github.com/user-attachments/assets/7f235f10-3b38-48a8-888a-d4c401a8a23f" />
+<img width="591" height="132" alt="image" src="https://github.com/user-attachments/assets/7f235f10-3b38-48a8-888a-d4c401a8a23f" />  
+
+As we can see, there are a bunch of methods to see the content of a file!  
+Now we have the password for level 2.
+
+***
+# bandit_level1->2
+***
+In this level, the password for the next level is stored in a file called - located in the home directory.
+
+Now that we are connected we can type `ls`  
+<img width="146" height="46" alt="image" src="https://github.com/user-attachments/assets/b4f5d61a-ec0f-49f3-b026-f5d3a95d15c0" />
+
+Now we need to open the **-** file present here.  
+
+
+
 
 
 
