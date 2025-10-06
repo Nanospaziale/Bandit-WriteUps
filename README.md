@@ -22,9 +22,7 @@ Since level 0 needs us to connect through a specific port (2220) , we can check 
 <img width="950" height="62" alt="image" src="https://github.com/user-attachments/assets/e51e2dd6-43e5-48d5-9dce-2433d2b36063" />
 
 As we can see in the images above, the **-p** option can be used to specify a port.
-
 So, our final command, will be:
-
 `ssh bandit0@bandit.labs.overthewire.org -p 2220`
 >The username and password, for this level, are declared in the introduction of level0 on the site and are **bandit0** and **bandit0**.
 
