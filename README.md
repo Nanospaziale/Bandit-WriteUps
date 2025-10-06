@@ -18,3 +18,11 @@ Of course, we can use any search engine to explore videos and tutorials on how t
 The tipical use of `ssh` is `ssh login_name@server_address`. If no port is specified, the SSH command, as standard, uses port 22/TCP.
 Since level 0 needs us to connect through a specific port (2220) , we can check the man page to see if there’s an option for that.
 
+<img width="1026" height="246" alt="image" src="https://github.com/user-attachments/assets/1ac47899-31e7-42fd-b8d8-1cdb8ee5eb22" />
+<img width="950" height="62" alt="image" src="https://github.com/user-attachments/assets/e51e2dd6-43e5-48d5-9dce-2433d2b36063" />
+
+As we can see in the images above, the **-p** option can be used to specify a port.
+So, our final command, will be:
+`ssh bandit0@bandit.labs.overthewire.org -p 2220`
+>The username and password, for this level, are declared in the introduction of level0 on the site and are **bandit0** and **bandit0**.
+
