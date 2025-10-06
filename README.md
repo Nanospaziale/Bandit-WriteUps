@@ -36,5 +36,42 @@ Now that we're connected, we can dive into the challenges across all the levels!
 ***
 # bandit_level1
 ***
+This level tells us that the password is located in the home directory inside a file called "readme." By typing the command `ls`, we can print a list of files stored in the current directory. 
+>The `pwd` command (Print Working Directory) can help us find out where we are.
+
+<img width="163" height="48" alt="image" src="https://github.com/user-attachments/assets/998d724d-12e9-45f0-b734-a9edd7c0ff28" />
+
+
+Now we can print directly the content of the file, but if we want to be sure that the file listed a moment ago is a readable file, we can check with the command `file`
+
+<img width="211" height="47" alt="image" src="https://github.com/user-attachments/assets/04c31232-89df-442c-8584-00554daa4a75" />
+
+As we can see, the command `file` helps us determine the file type. Since the file type is [ASCII](https://en.wikipedia.org/wiki/ASCII) we can print to the screen it's content.
+There is a bunch of commans that we can use for print the content of a file, here are some:
+
+`cat` it's the most common command to print the content of a file.
+<img width="588" height="146" alt="image" src="https://github.com/user-attachments/assets/6e1b0004-c1e2-4172-8b06-7e8d314ea92d" />
+
+`
+<img width="590" height="127" alt="image" src="https://github.com/user-attachments/assets/2f6fdf05-e6ba-4702-a9c0-872768229f90" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
