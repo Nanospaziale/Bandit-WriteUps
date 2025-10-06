@@ -52,8 +52,8 @@ There is a bunch of commans that we can use for print the content of a file, her
 `cat` it's the most common command to print the content of a file.
 <img width="588" height="146" alt="image" src="https://github.com/user-attachments/assets/6e1b0004-c1e2-4172-8b06-7e8d314ea92d" />
 
-`tail` print the last 10 lines from the file.
-<img width="593" height="145" alt="image" src="https://github.com/user-attachments/assets/65594ca4-e7c3-490f-b7af-d21f16380125" />
+`tail` print the last 10 lines of a file
+<img width="586" height="146" alt="image" src="https://github.com/user-attachments/assets/e2482cd5-a930-4394-a15c-27baad9483c8" />
 
 `head`, do the opposite of `tail` by printing the first 10 lines of the file.
 <img width="586" height="143" alt="image" src="https://github.com/user-attachments/assets/87f0202e-f828-45f2-8e3d-1314a5334e72" />
