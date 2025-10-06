@@ -25,7 +25,7 @@ As we can see in the images above, the **-p** option can be used to specify a po
 
 So, our final command, will be: `ssh bandit0@bandit.labs.overthewire.org -p 2220`
 >The username and password for this level are mentioned in the introduction of level 0 on the site, and they are **bandit0** and **bandit0**.
-
+***
 Once logged, we should see an image like this:
 
 <img width="568" height="1183" alt="image" src="https://github.com/user-attachments/assets/6e0d41fb-089f-464c-a83d-39a68dfc1f86" />
