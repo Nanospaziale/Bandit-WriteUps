@@ -7,7 +7,7 @@ Below you will find my solutions for the Bandit challenges from the site overthe
 ***
 **In this guide, you won’t find the best solution or the most performant, easy-to-code solution for the level; instead, you should expect something made by someone (me) who is still learning all this stuff. Enjoy!**
 ***
-# Bandit_level0
+# bandit_level0
 Level 0 is not a proper level. We should consider it an introduction to understanding how to connect to a server online through an SSH ([Secure Shell](https://en.wikipedia.org/wiki/Secure_Shell)) tunnel.
 <img width="1697" height="405" alt="image" src="https://github.com/user-attachments/assets/505b9ae9-08c4-4b35-b97e-20fc0ba04139" />
 
@@ -30,5 +30,7 @@ Once logged, we should see an image like this:
 
 <img width="568" height="1183" alt="image" src="https://github.com/user-attachments/assets/6e0d41fb-089f-464c-a83d-39a68dfc1f86" />
 
+Now that we're connected, we can dive into the challenges across all the levels!
 
+# bandit_level1
 
