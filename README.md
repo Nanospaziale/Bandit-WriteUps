@@ -52,14 +52,18 @@ There is a bunch of commans that we can use for print the content of a file, her
 `cat` it's the most common command to print the content of a file.
 <img width="588" height="146" alt="image" src="https://github.com/user-attachments/assets/6e1b0004-c1e2-4172-8b06-7e8d314ea92d" />
 
+
 `tail` print the last 10 lines from the file.
 <img width="593" height="145" alt="image" src="https://github.com/user-attachments/assets/65594ca4-e7c3-490f-b7af-d21f16380125" />
+
 
 `head`, do the opposite of `tail` by printing the first 10 lines of the file.
 <img width="586" height="143" alt="image" src="https://github.com/user-attachments/assets/87f0202e-f828-45f2-8e3d-1314a5334e72" />
 
+
 `more` is an interactive command to explore the file. It will go in interactive mode, only if the screen size is not enough to print its content. Instead, if the screen size it is enough, it print and quit.
 <img width="592" height="148" alt="image" src="https://github.com/user-attachments/assets/77831840-1102-4026-9b9d-4a00db9b60ed" />
+
 
 `less` is a better version of `more`, because it enter interactive mode, regardless of whether the screen size is sufficient.
 <img width="591" height="132" alt="image" src="https://github.com/user-attachments/assets/7f235f10-3b38-48a8-888a-d4c401a8a23f" />
