@@ -2,6 +2,8 @@ Hello from NanoSpaziale!
 
 Below you will find my solutions for the Bandit challenges from the site overthewire.org
 
+<img width="1658" height="526" alt="image" src="https://github.com/user-attachments/assets/cb9b3d65-34af-4a68-8fc9-063f1d5221dd" />
+
 ***
 In this guide, you won’t find the best solution or the most performant easy-to-code solution for the level; instead, you should expect something made by someone (me) who is still learning all this stuff. Enjoy!
 ***
