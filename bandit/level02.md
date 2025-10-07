@@ -1,7 +1,7 @@
 ***
 # bandit_level1->2
 ***
-In this level, the password for the next level is stored in a file called - located in the home directory.  
+In this level, the password is stored in a file called - located in the home directory.  
 
 Now that we are connected we can type `ls`  
 
