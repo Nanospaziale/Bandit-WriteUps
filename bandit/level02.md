@@ -41,8 +41,9 @@ In the previous level, I did not use the command `more`. In fact, if you use thi
 <img width="330" height="60" alt="image" src="https://github.com/user-attachments/assets/f63e1bf5-8396-43fa-9a3b-11aa3661b40c" />
 
 Why?  
-The explanation comes from the command's history. If we do some digging, we can see that commands like `cat`, `tail`, `head`, and `less` were developed after the POSIX standard or are in some way aligned with it where the **"-"** is treated as "Read from the standard input".  
-`more` predates it and adheres to the BSD/GNU Standard, where **"-"** is not treated as StdIn.  
+The explanation comes from the command's history.  
+If we do some digging, we can see that `more -` treats **“-”** as a literal filename, not as stdin, so it tries to open a file named **“-”** and, if it doesn’t exist, just reads stdin by fallback and prints it immediately.
+On the other hand, `less -` or any other commands quoted above , explicitly interprets **“-”** as standard input, waiting for data to arrive before displaying anything. 
 
 
 
