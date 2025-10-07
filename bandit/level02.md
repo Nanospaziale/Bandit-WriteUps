@@ -7,9 +7,7 @@ Now that we are connected we can type `ls`
 <img width="146" height="46" alt="image" src="https://github.com/user-attachments/assets/b4f5d61a-ec0f-49f3-b026-f5d3a95d15c0" />  
 
 Now we need to open the **-** file present here.  
-
 As well as the previous level, there are a bunch of methods to open this file, but first let's analyze and understand what is a dashed file.  
-
 A dashed file, is a file that starts his name with a **"-"**  
 
 In this case, the only file present here in the directory is **-**.  
@@ -24,12 +22,15 @@ Let's try:
 
 <img width="329" height="61" alt="image" src="https://github.com/user-attachments/assets/ba482412-0a70-42b2-ae80-0c85faab6b72" />  
 
+
 To see the full path of the file, we can use the command `pwd` in the directory where the file is  
 <img width="219" height="62" alt="image" src="https://github.com/user-attachments/assets/9198e0ac-2204-413c-9096-9f504627fa79" />  
+
 
 So the final command will be
 
 <img width="380" height="58" alt="image" src="https://github.com/user-attachments/assets/ff605020-8a74-4db3-aadd-6c9f540c41fa" />  
+
 
 Here we go, we have our password!!
 
