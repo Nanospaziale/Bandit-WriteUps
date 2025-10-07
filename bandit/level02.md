@@ -18,7 +18,7 @@ If we try to open it with most of the utilities used in the previous level, the 
 
 <img width="254" height="102" alt="image" src="https://github.com/user-attachments/assets/57c2aa8f-c2e9-457c-87f3-b55906ee6e47" />  
 
-To open like a file, we need to use **./** or the **/full/path/to/the/file**.  
+To use these commands and let them treat **"-"** like a file, we need to use **./** or the **/full/path/to/the/file**.  
 Let's try:  
 
 <img width="329" height="61" alt="image" src="https://github.com/user-attachments/assets/ba482412-0a70-42b2-ae80-0c85faab6b72" />  
