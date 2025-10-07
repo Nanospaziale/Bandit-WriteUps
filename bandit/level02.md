@@ -32,8 +32,7 @@ To see the full path of the file, we can use the command `pwd` in the directory 
 
 So the final command will be
 
-<img width="380" height="58" alt="image" src="https://github.com/user-attachments/assets/ff605020-8a74-4db3-aadd-6c9f540c41fa" />  
-
+<img width="380" height="58" alt="image" src="https://github.com/user-attachments/assets/ff605020-8a74-4db3-aadd-6c9f540c41fa" />    
 
 Here we go, we have our password!!
 
