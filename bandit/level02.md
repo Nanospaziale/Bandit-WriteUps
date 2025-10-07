@@ -38,8 +38,10 @@ Here we go, we have our password!!
 ***
 **Note**  
 In the previous level, I did not use the command `more`. In fact, if you use this command with the dashed file, you will notice that more prints the content of the file directly and does not treat - as standard input (StdIn).  
+<img width="330" height="60" alt="image" src="https://github.com/user-attachments/assets/f63e1bf5-8396-43fa-9a3b-11aa3661b40c" />
 
-Why? The reason lies in the history of the command. If we do some research, we can see that commands like `cat`, `tail`, `head`, or `less` were created after the standard POSIX, while `more` was developed before.
+Why?  
+The explanation comes from the command's history. If we do some digging, we can see that commands like `cat`, `tail`, `head`, and `less` were developed after the POSIX standard or are in some way aligned with it, whereas `more` predates it and adheres to the BSD/GNU Standard, where "-" is not treated as StdIn.  
 
 
 
