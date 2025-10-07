@@ -7,7 +7,7 @@ Now that we are connected we can type `ls`
 
 <img width="146" height="46" alt="image" src="https://github.com/user-attachments/assets/b4f5d61a-ec0f-49f3-b026-f5d3a95d15c0" />  
 
-Now we need to open the **-** file present here.  
+Now we need to open the **-** file present in the home directory.  
 As well as the previous level, there are a bunch of methods to open this file, but first let's analyze and understand what a dashed file is.  
 A dashed file is one that starts its name with a **'-'** 
 
