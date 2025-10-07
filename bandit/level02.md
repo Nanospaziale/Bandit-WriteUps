@@ -4,6 +4,7 @@
 In this level, the password for the next level is stored in a file called - located in the home directory.  
 
 Now that we are connected we can type `ls`  
+
 <img width="146" height="46" alt="image" src="https://github.com/user-attachments/assets/b4f5d61a-ec0f-49f3-b026-f5d3a95d15c0" />  
 
 Now we need to open the **-** file present here.  
@@ -14,6 +15,7 @@ In this case, the only file present here in the directory is **-**.
 
 If we try to open with most of the utilities used in the previous level, they will happend the screen because the standard [POSIX](https://en.wikipedia.org/wiki/POSIX) is used and the **-** is considered as standard input.  
 So most command treat this file as Standard Input (StdIn) and not as a file.  
+
 <img width="242" height="139" alt="image" src="https://github.com/user-attachments/assets/0a766a35-6ee9-47bd-9edd-e8366e1cbec7" />  
 <img width="254" height="102" alt="image" src="https://github.com/user-attachments/assets/57c2aa8f-c2e9-457c-87f3-b55906ee6e47" />  
 
@@ -24,6 +26,7 @@ Let's try:
 
 
 To see the full path of the file, we can use the command `pwd` in the directory where the file is  
+
 <img width="219" height="62" alt="image" src="https://github.com/user-attachments/assets/9198e0ac-2204-413c-9096-9f504627fa79" />  
 
 
