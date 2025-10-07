@@ -15,7 +15,6 @@ In this case, the only file present here in the directory is **-**.
 
 If we try to open with most of the utilities used in the previous level, they will happend the screen because the standard [POSIX](https://en.wikipedia.org/wiki/POSIX) is used and the **-** is considered as standard input.  
 So most command treat this file as Standard Input (StdIn) and not as a file.  
-
 <img width="242" height="139" alt="image" src="https://github.com/user-attachments/assets/0a766a35-6ee9-47bd-9edd-e8366e1cbec7" />  
 
 <img width="254" height="102" alt="image" src="https://github.com/user-attachments/assets/57c2aa8f-c2e9-457c-87f3-b55906ee6e47" />  
