@@ -7,8 +7,8 @@ As stated in the level description, our goal is to find the password inside the 
 Let's start by typing `ls` to see that we have a folder to explore:  
 <img width="210" height="80" alt="image" src="https://github.com/user-attachments/assets/355fba74-61f7-44e3-98f4-3486cf171569" />  
 
-Once inside the folder, typing `ls` again shows that we have multiple files to analyze (**note** that these filenames start with a dash!  
-[**See Level 2**](https://github.com/Nanospaziale/OTW-WriteUps/blob/main/bandit/level02.md)).  
+Once inside the folder, typing `ls` again shows that we have multiple files to analyze  
+(**note** that these filenames start with a dash [**See Level 2**](https://github.com/Nanospaziale/OTW-WriteUps/blob/main/bandit/level02.md)).    
 
 Let’s start by using `file`, a command that helps us determine what type a file is.
 
