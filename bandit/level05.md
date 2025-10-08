@@ -7,7 +7,7 @@ As stated in the level description, our goal is to find the password inside the 
 Let's start by typing `ls` to see that we have a folder to explore:  
 <img width="210" height="80" alt="image" src="https://github.com/user-attachments/assets/355fba74-61f7-44e3-98f4-3486cf171569" />  
 
-Once entered the folder, by typing again `ls` we can see that we have multiple file (**Note** that these files are dashed! [Level2](bandit/level02.md)
+Once entered the folder, by typing again `ls` we can see that we have multiple file (**Note** that these files are dashed! [Level2](bandit/bandit/level02.md)
 
 
 
