@@ -1,13 +1,11 @@
 Hello from NanoSpaziale!
 
-Below you will find my solutions for the Bandit challenges from the site overthewire.org
+Here you will find my solutions for the wargames available at [overthewire.org](https://overthewire.org/wargames/).
 
-What is Bandit?
-I believe that if you're here, you already know what Bandit is and how it works. However, Bandit is a free wargame from the site [Over the wire](overthewire.org/wargames/bandit) that can help you develop hacking skills and a basic understanding of Linux.
 ***
 **In this guide, you won’t find the best solution or the most performant, easy-to-code solution for the level; instead, you should expect something made by someone (me) who is still learning all this stuff. Enjoy!**
 ***
-Note that every so often all the passwords for the level will be changed, so take a note every time you get a password and save them!
+This page is work in progress. Every time i manage to solve a level, i will post a guide to the level on this page.
 
 
 
