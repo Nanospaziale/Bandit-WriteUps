@@ -1,6 +1,8 @@
 ***
 # bandit_level1->2
 ***
+<img width="633" height="140" alt="image" src="https://github.com/user-attachments/assets/2b33fd08-a0d4-4f2c-a53f-c23a221b7510" />  
+
 In this level, the password is stored in a file called - located in the home directory.  
 
 Now that we are connected we can type `ls`  
