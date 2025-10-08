@@ -1,7 +1,7 @@
 ***
 # bandit_level3->4
 ***
-<img width="555" height="255" alt="image" src="https://github.com/user-attachments/assets/3a152ad7-da06-4b78-bdc0-b5853e010d9c" />  
+<img width="555" height="255" alt="image" src="https://github.com/user-attachments/assets/3a152ad7-da06-4b78-bdc0-b5853e010d9c" />   
 Following the description above, we can see that our password is stored inside a hidden file in the directory `inhere`.  
 
 Once logged in, we can easily find the folder mentioned in the description by typing `ls`.  
@@ -22,8 +22,8 @@ Bingo!
 Using `ls -a` our file will be shown and we can use our typical command to open it.  
 <img width="315" height="77" alt="image" src="https://github.com/user-attachments/assets/e4c9a5b3-d6a4-42ee-b940-5ec843f70be4" />  
 
-Using `cat`, but we can use also the other commands from the previous level.
-<img width="481" height="79" alt="image" src="https://github.com/user-attachments/assets/2328738a-1c42-44cd-b93a-a363896f5fdb" />
+Using `cat`, but we can use also the other commands from the previous level.  
+<img width="481" height="79" alt="image" src="https://github.com/user-attachments/assets/2328738a-1c42-44cd-b93a-a363896f5fdb" />  
 
 
 
