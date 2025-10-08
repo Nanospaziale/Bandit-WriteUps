@@ -28,6 +28,9 @@ So, with `file`, we can use the command `file ./-*`.
   >So when we write `-*`, we’re telling the command to include all files whose names begin with a dash, no matter what follows.
 </details>
 
+At this point, we can see that the only readable file among the others is -file07 (ASCII text).  
+<img width="389" height="100" alt="image" src="https://github.com/user-attachments/assets/b2102572-f610-496c-aad9-156fc50d052a" />  
+There it is — we’ve found the password for the next level!
 
 
 
