@@ -13,9 +13,9 @@ I will follow the order suggested by OTW
   
 Here, you can find my guide and solution to [bandit wargame](/bandit)
 
->Tips  
->Don’t rely excessively on ChatGPT or any other LLMs; instead, try to use your own brain to find a personal solution. Besides being more fulfilling, this will help you develop your skills and your thinking.  
->Every now and then, the OverTheWire staff change the passwords for all levels, so remember to take note of them and save them!  
+>Tips:  
+> - Don’t rely excessively on ChatGPT or any other LLMs; instead, try to use your own brain to find a personal solution. Besides being more fulfilling, this will help you develop your skills and your thinking.  
+> - Every now and then, the OverTheWire staff change the passwords for all levels, so remember to take note of them and save them!  
 
 
 
