@@ -16,6 +16,7 @@ In fact, as stated in the level’s description, the file we’re looking for is
 By browsing through the man page of `ls`, we can find some interesting options.  
 
 `-a`  
+  
 <img width="471" height="71" alt="image" src="https://github.com/user-attachments/assets/e7dcce38-4dfd-4175-9a2d-5a080997dbf3" />  
 
 Bingo!  
