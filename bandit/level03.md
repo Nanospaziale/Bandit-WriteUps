@@ -21,6 +21,8 @@ Now, wth the help of `TAB` and `./` we can print the file's content and finally 
 In this case, even `more` requires the use of `./`. This is because the file name isn’t just a single hyphen but includes other letters after the two hyphens, which causes the command to interpret them as an option (see below).
 <img width="552" height="79" alt="image" src="https://github.com/user-attachments/assets/8ab19515-eca4-4884-89ef-840914b23249" />  
 
+Of course, i've not mentioned them, but in the same way i used `cat` it is possible to use other commands like `tail`, `less`, `head` or any commands that let
+
 
 
 
