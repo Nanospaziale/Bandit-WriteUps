@@ -10,9 +10,12 @@ This page is work in progress. Every time i manage to solve a level, i will post
 I will follow the order suggested by OTW  
 
 <img width="1919" height="704" alt="image" src="https://github.com/user-attachments/assets/c71a67ee-9e4e-4cc8-a6f6-cc1063dd7ccc" />
-
+  
 Here, you can find my guide and solution to [bandit wargame](/bandit)
 
+>Tips
+>Don’t rely excessively on ChatGPT or any other LLMs; instead, try to use your own brain to find a personal solution. Besides being more fulfilling, this will help you develop your skills and your thinking.
+>Every now and then, the OverTheWire staff change the passwords for all levels, so remember to take note of them and save them!
 
 
 
