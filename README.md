@@ -11,7 +11,7 @@ I will follow the order suggested by OTW
 
 <img width="1919" height="704" alt="image" src="https://github.com/user-attachments/assets/c71a67ee-9e4e-4cc8-a6f6-cc1063dd7ccc" />
 
-Here, you can find my guide and solution to [bandit wargame](OTW-WriteUps/bandit)
+Here, you can find my guide and solution to [bandit wargame](/bandit)
 
 
 
