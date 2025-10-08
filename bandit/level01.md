@@ -2,6 +2,9 @@
 ***
 # bandit_level0->1
 ***
+<img width="1681" height="172" alt="image" src="https://github.com/user-attachments/assets/a9ed53a7-1212-4948-951c-afdda055992a" />  
+
+
 This level tells us that the password is located in the home directory inside a file called "readme." By typing the command `ls`, we can print a list of files stored in the current directory. 
 >The `pwd` command (Print Working Directory) can help us find out where we are.
 
