@@ -8,4 +8,4 @@ Now, once connected we can print the content of the current directory by typing 
   
 <img width="290" height="100" alt="image" src="https://github.com/user-attachments/assets/96d0ae88-3beb-4570-8e07-ce091e41db32" />  
   
-I can see  
+We can see a file named `--spaces in this filename--` that begins with two hyphens, so we need to handle it the same way we handled the file in the previous level.
