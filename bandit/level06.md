@@ -41,7 +41,7 @@ Finally, we want to add the **human-readable** property to our command. To do th
 We can use `file` to see if a file is an ASCII text or not (This helps us to know if it's a human readable file or not). 
 <img width="776" height="83" alt="image" src="https://github.com/user-attachments/assets/ce597660-207e-49fb-986b-a61c25156e16" />  
 <details>  
-  <summary>Let's break down the command  </summary>
+  <summary>**Let's break down the command**  </summary>
   
   >The command `find ./* -size 1033c ! -executable -exec file {} \;` might seem difficult to understand at first glance, but in the end, it's actually quite simple.
   >Let's say that the first part has already been well explained in the previous sections, while the second part still needs clarification.
@@ -52,6 +52,18 @@ We can use `file` to see if a file is an ASCII text or not (This helps us to kno
 </details>
 
 Now that we have our file we can `cat` the result!!
+
+<img width="855" height="308" alt="image" src="https://github.com/user-attachments/assets/bee52cd9-73ea-4f6e-9ed9-8ae6da7b88aa" />  
+
+Following the explanation above, we can use also a little "add-on" to cat all in one file:  
+
+<img width="930" height="347" alt="image" src="https://github.com/user-attachments/assets/ee9d8683-269a-47e7-9564-6be69dfa2d66" />  
+
+Here it goes!!  
+
+
+
+
 
 
 
