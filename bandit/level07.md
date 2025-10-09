@@ -28,15 +28,16 @@ Now, the final command would be: `find / -size 33c -group bandit6 -user bandit7`
 This is the output of the command.  
 I shortened it because it produced a lot of errors, typically many “Permission denied” messages, since there are evidently quite a few files with the same properties as our target file.  
 
-What we can do now, it's to redirect all the errors to /dev/null.
+What we can do now, it's to redirect all the errors to /dev/null.  
+In our case, redirecting the StdErr (2) to /dev/null, allow us to prevent all errors to be printed to the screen, letting us to see more clearly the file we need.  
+You can imagine **/dev/null** as a bin or a black hole. Whatever you redirect to /dev/null disappear.   
 <details>
-<summary>Let's dive into /dev/null</summary>
+<summary>Let's dive into /dev/null</summary>  
 
->You can imagine **/dev/null** as a bin or a black hole. Whatever you redirect to /dev/null disappear.  
->In our case, redirecting the StdErr (2) to /dev/null, allow us to prevent all errors to be printed to the screen, letting us to see more clearly the file we need.  
 >More infos about Standard Stream can be looked up here: [Standard Stream](https://en.wikipedia.org/wiki/Standard_streams)  
 >More infos about /dev/null can be looked up here: [/dev/null](https://en.wikipedia.org/wiki/Null_device)  
 </details>
+
 
 
 
