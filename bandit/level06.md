@@ -41,9 +41,9 @@ Finally, we want to add the **human-readable** property to our command. To do th
 We can use `file` to see if a file is an ASCII text or not (This helps us to know if it's a human readable file or not). 
 <img width="776" height="83" alt="image" src="https://github.com/user-attachments/assets/ce597660-207e-49fb-986b-a61c25156e16" />  
 <details>
-  <summary>Let's break down the command</summary>
-  >The command above might seem difficult to understand at first glance, but in the end, it's actually quite simple.  
-  >
+<summary>Let's break down the command</summary>
+>The command above might seem difficult to understand at first glance, but in the end, it's actually quite simple.
+
 </details>
 
 
