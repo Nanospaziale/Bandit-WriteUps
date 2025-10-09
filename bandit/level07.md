@@ -12,7 +12,8 @@ If we try running `ls`, we can see that there are no files or directories.
 Indeed, as mentioned in the level description, we need to search for the file across the entire server.  
 <img width="211" height="60" alt="image" src="https://github.com/user-attachments/assets/eb108f4d-62dd-4cc1-b825-109cef99266f" />  
 
-In this particular case, we have to search in the root folder **/** ( **/** is the root directory by default, but it can be changed. [Unix filesystem](https://en.wikipedia.org/wiki/Unix_filesystem)).
+In this particular case, we have to search in the root folder **/** (Root directory by default in most unix system, but it can be changed. [Unix filesystem](https://en.wikipedia.org/wiki/Unix_filesystem)).
+
 
 
 
