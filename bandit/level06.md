@@ -39,7 +39,6 @@ Here’s how the command can look:
 <img width="601" height="77" alt="image" src="https://github.com/user-attachments/assets/8a6a214a-1913-445f-b533-e523f95211d8" />  
 The results it's the same as `find ./* -size 1033c`, but if we try to execute the command omitting the `-size` option, the results will be different and a lot more:  
 <img width="344" height="899" alt="image" src="https://github.com/user-attachments/assets/8b11e2ab-8eb1-4931-a5e7-9c7bb27dfaf6" />  
-
 Finally, we want to add the **human-readable** property to our command. To do this, we need to *pipe* `find` into another command. (See [pipeline](https://en.wikipedia.org/wiki/Pipeline_(Unix)) for more information).  
 We can use `file` to see if a file is an ASCII text or not (This helps us to know if it's a human readable file or not). 
 <img width="776" height="83" alt="image" src="https://github.com/user-attachments/assets/ce597660-207e-49fb-986b-a61c25156e16" />  
