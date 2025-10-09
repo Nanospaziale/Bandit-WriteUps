@@ -2,7 +2,8 @@
 # bandit_level5->6
 ***
 <img width="864" height="237" alt="image" src="https://github.com/user-attachments/assets/b2ec7481-3aeb-468b-a55f-f6729ee9b853" />  
-In this level, we have three particular properties that we need to follow in order to find the password:  
+
+In this level, we have three particular properties that we need to follow in order to find the password:   
 - human-readable  
 - 1033 bytes in size  
 - not executable  
