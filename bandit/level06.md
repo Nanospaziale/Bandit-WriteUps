@@ -25,7 +25,7 @@ Whatever you choose, let's start by following the first option.
 We want to try `find` with all the properties above:
 - human-readable:
     This property cannot be fully checked using only `find`. Sure, we might identify some files that are regular files, but we cannot be certain if they are truly human-readable. So, let's go ahead with the other two properties
-- 1003 bytes in size and not executable
+- 1033 bytes in size and not executable
 This property can be checked easily. In fact, if we look at the man page, there is an option that allows `find` to filter the search. We can add this option followed by `1033c` to narrow down our results.  
 <img width="862" height="552" alt="image" src="https://github.com/user-attachments/assets/56e6035c-1b4f-4041-8756-3db6bd9e7543" />  
 Now that we know about the size option, we can check the non-executable property.  If we look at the man page, we find the `-executable` option, which allows us to locate files that are executable by the current user.
