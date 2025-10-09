@@ -38,6 +38,29 @@ You can imagine **/dev/null** as a bin or a black hole. Whatever you redirect to
 >More infos about /dev/null can be looked up here: [/dev/null](https://en.wikipedia.org/wiki/Null_device)  
 </details>
 
+Doing `find / -size 33c -group bandit6 -user bandit7 2>/dev/null` results in:  
+<img width="757" height="99" alt="image" src="https://github.com/user-attachments/assets/bdc5c60a-83d9-4cab-a331-f39b5f8d93e8" />  
+
+As we can see, all the errors no longer appear on the screen, and the only file we can open is right there, ready to be read.  
+<img width="581" height="80" alt="image" src="https://github.com/user-attachments/assets/e685018b-c071-4ec7-a329-98af17159b0f" />  
+
+As well as for the other levels, we can integrate `cat` inside the command:  
+<img width="919" height="80" alt="image" src="https://github.com/user-attachments/assets/94231a51-473e-4c87-9aee-1212247287c7" />  
+
+Or we can pass the entire previous command as a parameter to `cat`, like this:  
+`cat "$find / -size 33c -group bandit6 -user bandit7 2>/dev/null"`.  
+With this method, `cat` prints the content of the file found by the command above.  
+<img width="854" height="80" alt="image" src="https://github.com/user-attachments/assets/17bf3857-c997-43af-8863-392536beaa4a" />  
+
+Here we goes with our password!
+
+
+
+
+
+
+
+
 
 
 
