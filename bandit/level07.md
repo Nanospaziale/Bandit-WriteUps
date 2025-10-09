@@ -1,4 +1,4 @@
-rssh***
+***
 # bandit_level6->7
 ***
 <img width="733" height="234" alt="image" src="https://github.com/user-attachments/assets/0271756d-6352-44f5-99b6-905675f57372" />  
@@ -53,6 +53,7 @@ With this method, `cat` prints the content of the file found by the command abov
 <img width="854" height="80" alt="image" src="https://github.com/user-attachments/assets/17bf3857-c997-43af-8863-392536beaa4a" />  
 
 Here we goes with our password!
+
 
 
 
