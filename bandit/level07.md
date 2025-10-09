@@ -31,8 +31,9 @@ I shortened it because it produced a lot of errors, typically many “Permission
 What we can do now, it's to redirect all the errors to /dev/null.
 <details>
   <summary>Let's dive into /dev/null</summary>
-  > **/dev/null**
+  **/dev/null**
 </details>
+
 
 
 
