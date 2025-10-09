@@ -42,12 +42,12 @@ We can use `file` to see if a file is an ASCII text or not (This helps us to kno
 <img width="776" height="83" alt="image" src="https://github.com/user-attachments/assets/ce597660-207e-49fb-986b-a61c25156e16" />  
 <details>
   <summary>Let's break down the command</summary>  
-> The command `find ./* -size 1033c ! -executable -exec file {} \;` might seem difficult to understand at first glance, but in the end, it's actually quite simple.
-> Let's say that the first part has already been well explained in the previous sections, while the second part still needs clarification.
-> - `-exec` - This first part tell to execute something
-> - `file` - This is the command that `-exec` will execute.
-> - `{}` - This part tells the command to execute `file` on each result from the first part (the one using `find`).
-> - `\;` - This is the stop of the command. Tells `exec` to stop and exit.
+>The command `find ./* -size 1033c ! -executable -exec file {} \;` might seem difficult to understand at first glance, but in the end, it's actually quite simple.
+>Let's say that the first part has already been well explained in the previous sections, while the second part still needs clarification.
+>- `-exec` - This first part tell to execute something
+>- `file` - This is the command that `-exec` will execute.
+>- `{}` - This part tells the command to execute `file` on each result from the first part (the one using `find`).
+>- `\;` - This is the stop of the command. Tells `exec` to stop and exit.
 </details>
 
 Now that we have our file we can `cat` the result!!
