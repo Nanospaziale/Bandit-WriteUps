@@ -57,7 +57,7 @@ Now that we have our file we can `cat` the result!!
 
 <img width="855" height="308" alt="image" src="https://github.com/user-attachments/assets/bee52cd9-73ea-4f6e-9ed9-8ae6da7b88aa" />  
 
-Following the explanation above, we can use also a little "add-on" to cat all in one file:  
+Following the explanation above, we can use also a little "add-on" to cat all in one line:  
 
 <img width="930" height="347" alt="image" src="https://github.com/user-attachments/assets/ee9d8683-269a-47e7-9564-6be69dfa2d66" />  
 
