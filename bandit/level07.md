@@ -20,13 +20,20 @@ If we look through the man page of `find` we can see that to search for our file
 <img width="652" height="63" alt="image" src="https://github.com/user-attachments/assets/aa629f4a-023f-449c-a84c-8a29b3a953a2" />  
 
 - **user uname** - In this case uname is bandit7 (uname stands for user-name)  
-<img width="625" height="68" alt="image" src="https://github.com/user-attachments/assets/675bb342-fc68-4360-bec8-920253254aab" />  
+<img width="625" height="68" alt="image" src="https://github.com/user-attachments/assets/675bb342-fc68-4360-bec8-920253254aab" />
 
-
-
-
-
+Now, the final command would be: `find / -size 33c -group bandit6 -user bandit7`  
 <img width="600" height="1349" alt="image" src="https://github.com/user-attachments/assets/fcf32e85-5d9e-45e2-b5b7-dba2ae57138a" />
+
+This is the output of the command.  
+I shortened it because it produced a lot of errors, typically many “Permission denied” messages, since there are evidently quite a few files with the same properties as our target file.  
+
+What we can do now, it's to redirect all the errors to /dev/null.
+<details>
+<summary>Let's dive into /dev/null</summary>
+>`/dev/null`
+</details>
+
 
 
 
