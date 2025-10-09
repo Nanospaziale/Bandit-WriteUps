@@ -29,7 +29,7 @@ This property cannot be fully checked using only `find`. Sure, we might identify
 - 1033 bytes in size and not executable:   
 These properties can be checked easily. In fact, if we look at the man page, there is an option that allows `find` to filter the search. We can add this option followed by `1033c` to narrow down our results.  
 <img width="862" height="552" alt="image" src="https://github.com/user-attachments/assets/56e6035c-1b4f-4041-8756-3db6bd9e7543" />  
-Now that we know about the size option, we can check the non-executable property.  If we look at the man page, we find the `-executable` option, which allows us to locate files that are executable by the current user.
+Now that we know about the size option, we can check the non-executable property.  If we look at the man page, we find the `-executable` option, which allows us to locate files that are executable by the current user.  
 <img width="858" height="206" alt="image" src="https://github.com/user-attachments/assets/a449bb8b-efbd-4e8e-b8a8-a442f62fc78a" />  
 
 However, we need to find a **non-executable** file.  In this case, we can use the **!** symbol to negate an option. When placed before an option, it makes that option work in the opposite way.  
