@@ -41,7 +41,7 @@ Finally, we want to add the **human-readable** property to our command. To do th
 We can use `file` to see if a file is an ASCII text or not (This helps us to know if it's a human readable file or not). 
 <img width="776" height="83" alt="image" src="https://github.com/user-attachments/assets/ce597660-207e-49fb-986b-a61c25156e16" />  
 <details>  
-  <summary>**Let's break down the command**  </summary>
+  <summary>Let's break down the command  </summary>
   
   >The command `find ./* -size 1033c ! -executable -exec file {} \;` might seem difficult to understand at first glance, but in the end, it's actually quite simple.
   >Let's say that the first part has already been well explained in the previous sections, while the second part still needs clarification.
