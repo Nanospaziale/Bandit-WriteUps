@@ -8,6 +8,12 @@ This level is very similar to the previous one, except for the proprerties of th
 - Owned by group bandit6  
 - 33 bytes in size  
 
-If we try to do `ls` we can see that there are no files or directories.  
-Indeed, as stated in the description of the level, we have to search for the file in the entire server.  
+If we try running `ls`, we can see that there are no files or directories.  
+Indeed, as mentioned in the level description, we need to search for the file across the entire server.  
+<img width="211" height="60" alt="image" src="https://github.com/user-attachments/assets/eb108f4d-62dd-4cc1-b825-109cef99266f" />  
+
+In this particular case, we have to search in the root folder (Tipically / [Unix filesystem](https://en.wikipedia.org/wiki/Unix_filesystem)).
+
+
+
 
