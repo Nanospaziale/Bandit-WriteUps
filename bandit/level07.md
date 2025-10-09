@@ -32,7 +32,7 @@ What we can do now, it's to redirect all the errors to /dev/null.
 In our case, redirecting the StdErr (2) to /dev/null, allow us to prevent all errors to be printed to the screen, letting us to see more clearly the file we need.  
 You can imagine **/dev/null** as a bin or a black hole. Whatever you redirect to /dev/null disappear.   
 <details>
-<summary>Let's dive into /dev/null</summary>  
+<summary>!! Check this out !!</summary>  
 
 >More infos about Standard Stream can be looked up here: [Standard Stream](https://en.wikipedia.org/wiki/Standard_streams)  
 >More infos about /dev/null can be looked up here: [/dev/null](https://en.wikipedia.org/wiki/Null_device)  
@@ -53,6 +53,7 @@ With this method, `cat` prints the content of the file found by the command abov
 <img width="854" height="80" alt="image" src="https://github.com/user-attachments/assets/17bf3857-c997-43af-8863-392536beaa4a" />  
 
 Here we goes with our password!
+
 
 
 
