@@ -10,6 +10,7 @@ In this level, we have three particular properties that we need to follow in ord
 Due to the fact that inside the **inhere** folder there are many subdirectories and files,  
 <img width="905" height="120" alt="image" src="https://github.com/user-attachments/assets/88ae1073-81c4-48c0-a614-4016923dc08b" />  
 we can use the `find` command to locate our file.  
-Manually checking each folder one by one would be pretty time-consuming, and we definitely don’t want to do that.  
 <img width="852" height="153" alt="image" src="https://github.com/user-attachments/assets/025e90f4-50fd-4e8f-aee8-ba8ad87d1566" />  
+Manually checking each folder one by one would be pretty time-consuming, and we definitely don’t want to do that.  
+
 
