@@ -45,6 +45,9 @@ Let's see some commands then:
 - tail  
 <img width="583" height="76" alt="image" src="https://github.com/user-attachments/assets/43860552-2f41-4cfe-b5ae-4751ebc6b233" />
 
+- nl
+<img width="577" height="78" alt="image" src="https://github.com/user-attachments/assets/b220afea-f67b-404f-8f62-cf1717571d7d" />
+  
 <details>
 <summary> **Very important Note** </summary>
 
@@ -53,6 +56,7 @@ Let's see some commands then:
 </details>
 
 Let’s go ahead now that we have the password!
+
 
 
 
