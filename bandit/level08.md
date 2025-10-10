@@ -45,11 +45,15 @@ Let's see some commands then:
 <img width="583" height="76" alt="image" src="https://github.com/user-attachments/assets/43860552-2f41-4cfe-b5ae-4751ebc6b233" />
 
 <details>
-<summary> ***Very important Note*** </summary>
+<summary> **Very important Note** </summary>
 
 > The command `grep` is case sensitive, so be aware of what you type in the command!! However there are various options for this command, like `-i`
 > <img width="970" height="77" alt="image" src="https://github.com/user-attachments/assets/b516f3a8-bcb3-475d-b43c-41cffa1892c6" />
 </details>
+
+Let’s go ahead now that we have the password!
+
+
 
 
 
