@@ -9,7 +9,8 @@ In this level we have to search the password in the file data.txt next to the wo
   
 `ls` will print to the screen our file *data.txt*.  
 
-Before outputting the content, let's inspect the file size and line count. This can help us to know if we can simply cat the file or not (If inside *data.txt* there are 10 lines we can check it manually).
+Before outputting the content, let's inspect the file size and line count.  
+This can help us to know if we can simply cat the file or not (If inside *data.txt* there are 10 lines we can check it manually).  
 To do so, we can use `wc -l filename`. This will print to the screen the line count of data.txt.  
   
 <img width="337" height="79" alt="image" src="https://github.com/user-attachments/assets/88758637-a3f6-4aaa-bc9a-ed54717f3d82" />  
@@ -52,6 +53,7 @@ Let's see some commands then:
 </details>
 
 Let’s go ahead now that we have the password!
+
 
 
 
