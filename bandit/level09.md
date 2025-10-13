@@ -1,5 +1,5 @@
 ***
-# bandit_level7->8
+# bandit_level8->9
 ***
 <img width="752" height="245" alt="image" src="https://github.com/user-attachments/assets/c7d463ba-e68e-42dd-98b4-d7a5589479e7" />  
   
@@ -42,6 +42,7 @@ With command `cat data.txt | sort | uniq -u` we can retrieve easily our password
 </details>
 
 That's it, we got our password!
+
 
 
 
