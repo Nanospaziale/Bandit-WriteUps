@@ -10,8 +10,10 @@ As usual, we can check the effective presence of the file through `ls`.
 Once again, we use `file` to check what type of file we’re dealing with.  
 <img width="319" height="98" alt="image" src="https://github.com/user-attachments/assets/d9006258-b88d-4b7e-acb7-46a688d4ba96" />  
   
-Since our file is a *data* type, it means it isn’t human-readable. We can still print it to the screen, of course, but it will just show a bunch of unreadable characters.  
+Since our file is a *data* type, it means it isn’t human-readable.  
+We can still print it to the screen, of course, but it will just show a bunch of unreadable characters.  
 <img width="498" height="156" alt="image" src="https://github.com/user-attachments/assets/e28958cf-b661-4253-b8a0-79287d8270e3" />  
+
 
 
 
