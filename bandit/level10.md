@@ -15,7 +15,11 @@ We can still print it to the screen, of course, but it will just show a bunch of
 
 What we can do at this point is print to the screen every single readable lines with `strings` and then pipe `grep` to match only the line with several *"="*.  
 Since we don't know how many of *"="* are in the line, i'm going to put 6 of them.  
+
+Bingo, we got our password!  
+  
 <img width="498" height="156" alt="image" src="https://github.com/user-attachments/assets/e28958cf-b661-4253-b8a0-79287d8270e3" />  
+
 
 
 
