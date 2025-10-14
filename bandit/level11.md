@@ -64,6 +64,7 @@ Now, if we print the file's contents to the screen, we can see some readable cha
 ***  
   
 We can now analyze the `base64` man page to see which options we can use to decode the file.  
+  
 <img width="810" height="396" alt="image" src="https://github.com/user-attachments/assets/a3f8f9b1-4506-45a3-8f4e-f35f5d028527" />  
   
 Here we go, we got the password!  
@@ -71,6 +72,7 @@ Here we go, we got the password!
 <img width="490" height="82" alt="image" src="https://github.com/user-attachments/assets/83b15e6b-bd24-4897-9dae-47b415cc44cd" />    
 
   
+
 
 
 
