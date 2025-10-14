@@ -16,7 +16,8 @@ As we can see, we have another encrypted message. In this case [ROT13](https://e
 
 > ROT13 is pretty easy to understand.  
 > Basically, we need to shift each letter forward to the 13th position after it.  
-> Following this table, we can understand how ROT13 works.  
+> Following this table, we can understand how ROT13 works.
+>   
 > <img width="598" height="81" alt="image" src="https://github.com/user-attachments/assets/f2efcd85-04e9-4ab5-8e56-45b393b504d6" />  
 > Capital ***A*** became a capital ***N***.
 >     
@@ -68,6 +69,7 @@ Let’s break down the code.
 > So we split it into two growing intervals: `N-Z` for the second half of the alphabet, followed by `A-M` for the first half.  
 > In this way, every letter is correctly mapped 13 positions forward.  
 </details>
+
 
 
 
