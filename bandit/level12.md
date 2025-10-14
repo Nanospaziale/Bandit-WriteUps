@@ -8,6 +8,9 @@ We can do the usual:
 <img width="492" height="174" alt="image" src="https://github.com/user-attachments/assets/557b2020-594b-4c15-8fea-d6e7eb73acd6" />  
   
 As we can see, we have another encrypted message. In this case [ROT13](https://en.wikipedia.org/wiki/ROT13) has been used to encrypt.  
+  
+***  
+  
 <details>
   <summary> Understanding ROT13 </summary>
 
@@ -25,6 +28,10 @@ As we can see, we have another encrypted message. In this case [ROT13](https://e
 > So, if we take the letter ***A*** and shift its position by 13 places, we land in the position 14 or letter ***N***.
 
 </details>
+  
+***  
+  
+
 
 
 
