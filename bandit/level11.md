@@ -32,7 +32,7 @@ Now, if we print the file's contents to the screen, we can see some readable cha
 > What ***Base64*** does it to take the 3 bytes above or 24 bits (In this case) and divide them by 6. So the final representation will be this one:  
 > | ASCII | M | A | N | - |
 > | --- | --- | --- | --- | --- |
-> | BINARY | 01001101 | 01000001 | 01001110 | - |
+> | BINARY | 01001101 | 01000001 | 01001110 |  |
 > | BASE64 | 010011 | 010100 | 000101 | 001110 |
 >  
 > In the first line we can observe three bytes in binary representing the word M-A-N.
@@ -66,6 +66,7 @@ Now, if we print the file's contents to the screen, we can see some readable cha
 <img width="490" height="82" alt="image" src="https://github.com/user-attachments/assets/83b15e6b-bd24-4897-9dae-47b415cc44cd" />   
 
   
+
 
 
 
