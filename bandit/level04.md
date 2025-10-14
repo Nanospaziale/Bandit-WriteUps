@@ -29,7 +29,7 @@ Using `ls -a` our file will be shown and we can use our typical command to open 
 Using `cat`, but we can use also the other commands from the previous level.  
 
 <img width="481" height="79" alt="image" src="https://github.com/user-attachments/assets/2328738a-1c42-44cd-b93a-a363896f5fdb" />  
-
+  
 > TIPS: While using `ls`, I recommend using these options: `-a` (to show all content), `-l` (to display the output in long list format), and `-h` (to show file sizes in a human-readable format).  
 > The first two options (`-l` and `-a`) can also be used by running the command `ll` (on most modern filesystems).  
 
