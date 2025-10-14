@@ -62,7 +62,7 @@ Let’s break down the code.
 <details>
   <summary>Dive into 'tr'</summary>
 
-> ***For this example i will take only the uppercase letters.***
+> ***For this example i will take only the uppercase letters.***  
 > So imagine the command as `tr 'A-Z' 'N-ZA-M'`.  
 > - The first set (`A-Z`) defines all uppercase letters.  
 > - The second set (`N-ZA-M`) defines how to transform them using ROT13. We can't write `N-M` because `tr` only accepts intervals that go forward according to the ASCII table.
@@ -76,6 +76,7 @@ Let’s break down the code.
 Now, let's analyze the second: `vi` or `vim`.  
 What is vi?  
 Vi or Vim it's a text editor that allows you do things, a lot of things.
+
 
 
 
