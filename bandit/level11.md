@@ -15,7 +15,7 @@ We can run `file` on ***data.txt*** to confirm its type before decoding the Base
 Now, if we print the file's contents to the screen, we can see some readable characters, but they don’t make sense. At this point, we need to understand what Base64 is and how it works.
   
 <img width="695" height="99" alt="image" src="https://github.com/user-attachments/assets/44614b1e-497c-4bbd-bf70-e5adad340434" />  
-
+***
 <details>
   <summary> What is Base64 Encoding?  </summary>
 
@@ -58,10 +58,12 @@ Now, if we print the file's contents to the screen, we can see some readable cha
 > The final result will be: **TQ==**.
  
 </details>
+***
 <img width="810" height="396" alt="image" src="https://github.com/user-attachments/assets/a3f8f9b1-4506-45a3-8f4e-f35f5d028527" />  
 <img width="490" height="82" alt="image" src="https://github.com/user-attachments/assets/83b15e6b-bd24-4897-9dae-47b415cc44cd" />   
 
   
+
 
 
 
