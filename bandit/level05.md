@@ -17,6 +17,9 @@ Let’s start by using `file`, a command that helps us determine what type a fil
 So, with `file`, we can use the command `file ./-*`.  
 
 <img width="351" height="252" alt="image" src="https://github.com/user-attachments/assets/f6459747-f6a0-48c4-a93a-9a808c2085b9" />  
+  
+***  
+  
 <details>
   <summary>Here's the explanation of the command I used above:  </summary>
   
@@ -27,7 +30,9 @@ So, with `file`, we can use the command `file ./-*`.
   >That means it can stand for any number of characters in a filename or path. For example, `file*` matches `file1`, `file2`, or `fileX`.
   >So when we write `-*`, we’re telling the command to include all files whose names begin with a dash, no matter what follows.
 </details>
-
+  
+***  
+  
 At this point, we can see that the only readable file among the others is -file07 (ASCII text).  
 <img width="389" height="100" alt="image" src="https://github.com/user-attachments/assets/b2102572-f610-496c-aad9-156fc50d052a" />  
 There it is — we’ve found the password for the next level!
