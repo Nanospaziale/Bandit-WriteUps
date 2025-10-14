@@ -30,13 +30,14 @@ Now, if we print the file's contents to the screen, we can see some readable cha
 > It is important to represent the letter in 8 bits and not 7 bits. (Look at [ASCII's story](https://en.wikipedia.org/wiki/ASCII) to understand why the first ASCII characters were represented with 7 bits instead of 8.)
 > What ***Base64*** does it to take the 3 byte above or 24 bits (In this case) and divide them by 6. So the final representation will be this one:
 > | M | A | N |
-| --- | --- |
-| git status | List all new or modified files |
+> | --- | --- | --- |
+> | 01001101 | 0100001 | 0100 1110 |
 </details>
 <img width="810" height="396" alt="image" src="https://github.com/user-attachments/assets/a3f8f9b1-4506-45a3-8f4e-f35f5d028527" />  
 <img width="490" height="82" alt="image" src="https://github.com/user-attachments/assets/83b15e6b-bd24-4897-9dae-47b415cc44cd" />   
 
   
+
 
 
 
