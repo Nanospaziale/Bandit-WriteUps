@@ -32,6 +32,13 @@ As we can see, we have another encrypted message. In this case [ROT13](https://e
 ***  
   
 Now that we understand how ROT13 works, we need to figure out how to shift each letter of our phrase 13 positions forward.  
+If we look at the Wikipedia page for ROT13, in the *Implementation* section, we can read about two methods:  
+- The `tr` command  
+- The `vi` (or `vim`) text editor  
+  
+Of course, there are many other methods available — I just chose the two simplest ones for me.  
+
+
 
 
 
