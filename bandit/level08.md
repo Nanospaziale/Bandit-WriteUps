@@ -48,14 +48,19 @@ Let's see some commands then:
 - nl
 <img width="577" height="78" alt="image" src="https://github.com/user-attachments/assets/b220afea-f67b-404f-8f62-cf1717571d7d" />
   
+***  
+  
 <details>
-<summary> **Very important Note** </summary>
+<summary> Case insensitive search </summary>
 
 > The command `grep` is case sensitive, so be aware of what you type in the command!! However there are various options for this command, like `-i`
 > <img width="970" height="77" alt="image" src="https://github.com/user-attachments/assets/b516f3a8-bcb3-475d-b43c-41cffa1892c6" />
 </details>
-
+  
+***  
+  
 Let’s go ahead now that we have the password!
+
 
 
 
