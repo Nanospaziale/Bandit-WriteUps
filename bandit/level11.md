@@ -54,7 +54,7 @@ Now, if we print the file's contents to the screen, we can see some readable cha
 > We do this things only with the groups that are not finished.  
 > We have now two set of 6 bits:  
 > 010011 and 010000.  
-> Due the fact that ***Base64*** works in groups of 4 set of bits, we complete the remaining part with the symbol *"="*.
+> Due the fact that ***Base64*** works in groups of 4 set of bits, we complete the remaining part with the symbol *"="*.  
 > The final result will be: **TQ==**.
  
 </details>
@@ -62,6 +62,7 @@ Now, if we print the file's contents to the screen, we can see some readable cha
 <img width="490" height="82" alt="image" src="https://github.com/user-attachments/assets/83b15e6b-bd24-4897-9dae-47b415cc44cd" />   
 
   
+
 
 
 
