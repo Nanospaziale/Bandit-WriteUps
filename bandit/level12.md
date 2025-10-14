@@ -46,12 +46,26 @@ Let's analyze the first: `tr`
 <img width="440" height="146" alt="image" src="https://github.com/user-attachments/assets/675984da-e3bf-458e-bf46-790c2d06a8df" />  
   
 In this case, we can use this command to translate the char on our ***data.txt***:
-- `tr 'A-Za-z' 'N-ZA-Mn-za-m' < data.txt`
-In fact, executing this command in our command line should give back this:
+- `tr 'A-Za-z' 'N-ZA-Mn-za-m' < data.txt`  
+In fact, executing this command in our command line should give back this:  
   
 <img width="572" height="79" alt="image" src="https://github.com/user-attachments/assets/2ceeadfa-f50b-4854-9884-38574c4c4d3c" />  
   
-But 
+Let’s break down the code.  
+  
+- `tr` is obviously the command we want to run.
+- `'A-Za-z'` defines the first set of characters (STRING1), all uppercase and lowercase letters in the English alphabet (from A to Z and from a to z).
+- `'N-ZA-Mn-za-m'` defines the second set (STRING2), which shifts the first set by 13 positions.
+
+The first set (`A-Z`) defines all uppercase letters.  
+The second set (`N-ZA-M`) defines how to transform them using ROT13. We can't write `N-M` because `tr` only accepts intervals that go forward according to the ASCII table.  
+So we split it into two growing intervals: `N-Z` for the second half of the alphabet, followed by `A-M` for the first half.  
+This way, every letter is correctly mapped 13 positions forward.  
+  
+a  
+
+
+
 
 
 
