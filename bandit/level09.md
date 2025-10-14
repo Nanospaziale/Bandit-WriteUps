@@ -19,7 +19,9 @@ Using the `wc -l` command, we can see that the file has 1001 lines, too many to 
 At this point, we can concatenate various command to get our password:  
 With command `cat data.txt | sort | uniq -u` we can retrieve easily our password from the file ***data.txt***.  
 <img width="482" height="96" alt="image" src="https://github.com/user-attachments/assets/b1b3b450-74b5-4eb7-bad8-78b53548952c" />  
-
+  
+***  
+  
 <details>
   <summary> Why use sort? </summary>
   
@@ -40,8 +42,11 @@ With command `cat data.txt | sort | uniq -u` we can retrieve easily our password
 > Instead, using `sort` before `uniq -u` returns the words that actually occur only once.
 > So, `uniq -u` only considers consecutive lines. If a line appears multiple times non-consecutively, it’s treated as unique relative to the previous line.
 </details>
-
+  
+***  
+  
 That's it, we got our password!
+
 
 
 
