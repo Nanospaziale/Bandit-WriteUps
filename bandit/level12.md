@@ -74,8 +74,12 @@ Let’s break down the code.
 ***  
 
 Now, let's analyze the second: `vi` or `vim`.  
+  
+<img width="742" height="393" alt="image" src="https://github.com/user-attachments/assets/6bb5684e-ed94-4e35-b7a3-bbebc6065d6e" />  
+  
 What is vi?  
 Vi or Vim it's a text editor that allows you do things, a lot of things.
+
 
 
 
