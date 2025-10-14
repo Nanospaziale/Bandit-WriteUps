@@ -22,7 +22,7 @@ Now, if we print the file's contents to the screen, we can see some readable cha
 
 > Understanding what Base64 is and how it works isn’t essential to retrieve the password for this level.  
 > However, it can be useful for future levels or challenges that involve Base64.  
-> **Base64** has the purpose to encode binary data or simply text into printable charachters.  
+> **Base64** has the purpose to encode binary data or simply text into printable characters.  
 > But how does it encode the data?
 > ***
 > Let's take as example the word MAN
@@ -66,6 +66,7 @@ Now, if we print the file's contents to the screen, we can see some readable cha
 <img width="490" height="82" alt="image" src="https://github.com/user-attachments/assets/83b15e6b-bd24-4897-9dae-47b415cc44cd" />   
 
   
+
 
 
 
