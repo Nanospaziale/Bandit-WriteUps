@@ -18,8 +18,8 @@ As we can see, we have another encrypted message. In this case [ROT13](https://e
 > Basically, we need to shift each letter forward to the 13th position after it.  
 > Following this table, we can understand how ROT13 works.  
 > <img width="598" height="81" alt="image" src="https://github.com/user-attachments/assets/f2efcd85-04e9-4ab5-8e56-45b393b504d6" />  
->  
-> Capital ***A*** became a capital ***N***.  
+> Capital ***A*** became a capital ***N***.
+>     
 > In fact, if we create a table with numbers, we can see it more clearly.  
 > |1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|  
 > |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|  
@@ -32,6 +32,7 @@ As we can see, we have another encrypted message. In this case [ROT13](https://e
 ***  
   
 Now that we understand how ROT13 works, we need to figure out how to shift each letter of our phrase 13 positions forward.  
+
 
 
 
