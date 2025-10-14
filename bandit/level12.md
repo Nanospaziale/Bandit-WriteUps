@@ -37,6 +37,40 @@ If we look at the Wikipedia page for ROT13, in the *Implementation* section, we 
 - `vi` (or `vim`) text editor  
   
 Of course, there are many other methods available, I just chose the two simplest ones for me.  
+  
+***  
+  
+Let's analyze the first: `tr`
+`tr` helps us to translate characters.  
+  
+<img width="440" height="146" alt="image" src="https://github.com/user-attachments/assets/675984da-e3bf-458e-bf46-790c2d06a8df" />  
+  
+In this case, we can use this command to translate the char on our ***data.txt***:
+- `tr 'A-Za-z' 'N-ZA-Mn-za-m' < data.txt`
+In fact, executing this command in our command line should give back this:
+  
+<img width="572" height="79" alt="image" src="https://github.com/user-attachments/assets/2ceeadfa-f50b-4854-9884-38574c4c4d3c" />  
+  
+But 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
