@@ -3,7 +3,7 @@ Hello from NanoSpaziale!
 Here you will find my solutions for the wargames available at [overthewire.org](https://overthewire.org/wargames/).
 
 ***
-**In this guide, you won’t find the best or most efficient, easy-to-code solution for the level; instead, expect something created by someone (me) who is still learning all of this. Enjoy!**
+**In this guide, you won’t find the best or most efficient, easy-to-code solution for all the levels; instead, expect something created by someone (me) who is still learning all of this. Enjoy!**
 ***
 This page is work in progress. Every time I manage to solve a level, i will post a guide for that level on this page.
 
