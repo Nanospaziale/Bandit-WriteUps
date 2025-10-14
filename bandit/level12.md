@@ -57,12 +57,17 @@ Let’s break down the code.
 - `'A-Za-z'` defines the first set of characters (STRING1), all uppercase and lowercase letters in the English alphabet (from A to Z and from a to z).
 - `'N-ZA-Mn-za-m'` defines the second set (STRING2), which shifts the first set by 13 positions.
 
-The first set (`A-Z`) defines all uppercase letters.  
-The second set (`N-ZA-M`) defines how to transform them using ROT13. We can't write `N-M` because `tr` only accepts intervals that go forward according to the ASCII table.  
-So we split it into two growing intervals: `N-Z` for the second half of the alphabet, followed by `A-M` for the first half.  
-This way, every letter is correctly mapped 13 positions forward.  
-  
+<details>
+  <summary>Dive into 'tr'</summary>
+
+> ***For this example i will take only the uppercase letters.*** So image the command as `tr 'A-Z' 'N-ZA-M'`.  
+> The first set (`A-Z`) defines all uppercase letters.  
+> The second set (`N-Z`) defines how to transform them using ROT13. We can't write `N-M` because `tr` only accepts intervals that go forward according to the ASCII table.  
+> So we split it into two growing intervals: `N-Z` for the second half of the alphabet, followed by `A-M` for the first half.  
+> This way, every letter is correctly mapped 13 positions forward.  
+</details>
 a  
+
 
 
 
