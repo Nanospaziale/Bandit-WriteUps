@@ -36,7 +36,8 @@ If we look at the Wikipedia page for ROT13, in the *Implementation* section, we 
 - `tr` command  
 - `vi` (or `vim`) text editor  
   
-Of course, there are many other methods available — I just chose the two simplest ones for me.  
+Of course, there are many other methods available, I just chose the two simplest ones for me.  
+
 
 
 
