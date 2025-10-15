@@ -79,9 +79,11 @@ Now, let's analyze the second: `vi` or `vim`.
   
 What is vi?  
 Vi or Vim it's a text editor that allows you do things, a lot of things.  
-I will leave to you the exploring of this beautiful text editor, for now, let's understand how to use its functionality to do the reverse of ROT13.  
-  
+I’ll leave it to you to explore this beautiful text editor on your own.  
+For now, let’s focus on how to use its features to perform the reverse operation of ROT13.  
+    
 Once opened  
+
 
 
 
